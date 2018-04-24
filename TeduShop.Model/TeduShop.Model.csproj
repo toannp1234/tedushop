@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\Footer.cs" />
+    <Compile Include="Model\Menu.cs" />
+    <Compile Include="Model\MenuGroup.cs" />
+    <Compile Include="Model\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
